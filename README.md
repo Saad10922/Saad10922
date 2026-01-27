@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm M Saad Masood</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan.</h3>
+<h3 align="center">A passionate Developer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saad10922&label=Profile%20views&color=0e75b6&style=flat" alt="saad10922" /> </p>
  <img align="right"  src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding"  width="400px">
 
-- 🌱 I’m currently learning **API Testing**
+- 🌱 I’m currently learning **DevOps Technical**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saad10922/](https://github.com/Saad10922/)
 
