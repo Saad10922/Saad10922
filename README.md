@@ -16,7 +16,7 @@
 
 ### About me
 
-Full Stack Developer with **2+ years** shipping web apps and REST APIs in **JavaScript / TypeScript**. I build auth, RBAC, dashboards, notifications, and production fixes — and I use **Playwright** alongside product work so features land tested.
+Full Stack Developer with **3+ years** shipping web apps and REST APIs in **JavaScript / TypeScript**. I build auth, RBAC, dashboards, notifications, and production fixes — and I use **Playwright** alongside product work so features land tested.
 
 Currently at **Sprint Synergy**, with freelance work on **Upwork** (ResistIQ, IndusTrack). Open to full-stack roles in **Lahore / Islamabad** (relocate) and remote.
 
